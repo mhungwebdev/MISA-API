@@ -1,0 +1,15 @@
+C:\Misa\MISA_WebAPI\MISA.infrastructure\bin\Debug\net6.0\MISA.infrastructure.deps.json
+C:\Misa\MISA_WebAPI\MISA.infrastructure\bin\Debug\net6.0\MISA.infrastructure.dll
+C:\Misa\MISA_WebAPI\MISA.infrastructure\bin\Debug\net6.0\MISA.infrastructure.pdb
+C:\Misa\MISA_WebAPI\MISA.infrastructure\bin\Debug\net6.0\MISA.core.dll
+C:\Misa\MISA_WebAPI\MISA.infrastructure\bin\Debug\net6.0\MISA.core.pdb
+C:\Misa\MISA_WebAPI\MISA.infrastructure\obj\Debug\net6.0\MISA.infrastructure.csproj.AssemblyReference.cache
+C:\Misa\MISA_WebAPI\MISA.infrastructure\obj\Debug\net6.0\MISA.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Misa\MISA_WebAPI\MISA.infrastructure\obj\Debug\net6.0\MISA.infrastructure.AssemblyInfoInputs.cache
+C:\Misa\MISA_WebAPI\MISA.infrastructure\obj\Debug\net6.0\MISA.infrastructure.AssemblyInfo.cs
+C:\Misa\MISA_WebAPI\MISA.infrastructure\obj\Debug\net6.0\MISA.infrastructure.csproj.CoreCompileInputs.cache
+C:\Misa\MISA_WebAPI\MISA.infrastructure\obj\Debug\net6.0\MISA.infrastructure.csproj.CopyComplete
+C:\Misa\MISA_WebAPI\MISA.infrastructure\obj\Debug\net6.0\MISA.infrastructure.dll
+C:\Misa\MISA_WebAPI\MISA.infrastructure\obj\Debug\net6.0\refint\MISA.infrastructure.dll
+C:\Misa\MISA_WebAPI\MISA.infrastructure\obj\Debug\net6.0\MISA.infrastructure.pdb
+C:\Misa\MISA_WebAPI\MISA.infrastructure\obj\Debug\net6.0\ref\MISA.infrastructure.dll
